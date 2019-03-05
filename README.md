@@ -1,6 +1,6 @@
 # Bolivian Electrical Power System simulation
 
-The purpose of this proposal is to have a simple and powerfull algorithm based on recent AI techniques, more spesifically Reinforcement Learning, for solve the problem of Smart Grid planning and Fault detection prediction.
+The purpose of this proposal is to have a simple and powerful algorithm based on recent AI techniques, more specifically Reinforcement Learning, for solve the problem of Smart Grid planning and Fault detection prediction.
 
 For achieve this general objective, the next local objectives are presented
 * Data Mining

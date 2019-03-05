@@ -1,2 +1,5 @@
 bolivia_power/
-draw/
+draw/.vscode/c_cpp_properties.json
+.vscode/c_cpp_properties.json
+.vscode/
+draw/schemdraw
